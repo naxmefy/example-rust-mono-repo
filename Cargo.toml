@@ -1,7 +1,9 @@
 [workspace]
 members = [
-    "cli"
+    "cli",
+    "cli-greeting"
 ]
 default-members = [
-    "cli"
+    "cli",
+    "cli-greeting"
 ]
